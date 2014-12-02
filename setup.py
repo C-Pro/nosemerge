@@ -18,5 +18,7 @@ setup(
     description = "Simple nosetests xml report merge tool",
     license = "LGPL",
     keywords = "xml unittest nose nosetests",
+    url = "https://github.com/C-Pro/nosemerge",
+    download_url = "https://github.com/C-Pro/nosemerge/tarball/0.1",
 
 )
