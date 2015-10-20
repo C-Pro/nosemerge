@@ -1,4 +1,4 @@
-#!/home/cpro/.pyenv/versions/3.4.1/bin/python
+#!/usr/bin/env python3
 #Simple nosetests xml report merge tool
 import sys
 import logging
